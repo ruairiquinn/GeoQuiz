@@ -12,10 +12,17 @@
 bin/
 gen/
 
+# Intellij and misc
+captures/
+*.DS_Store
+.idea/
+GeoQuiz.iml
+
 # Gradle files
 .gradle/
 build/
 /*/build/
+gradlew.bat
 
 # Local configuration file (sdk path, etc)
 local.properties
